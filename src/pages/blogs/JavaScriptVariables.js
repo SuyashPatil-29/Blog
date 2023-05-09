@@ -27,7 +27,7 @@ const JavaScriptVariables = () => {
             <div className="flex justify-between items-center mb-6">
             <div className="flex w-full sm:items-center gap-x-5 sm:gap-x-3">
             <div className="flex-shrink-0">
-                <Image className="h-12 w-12" src="/Assets/favicon.ico" alt="Image Description" width={12} height={12} />
+                <Image className="h-12 w-12" src="/Assets/ProfilePictureMaker.png" alt="Image Description" width={12} height={12} />
             </div>
 
         <div className="grow">

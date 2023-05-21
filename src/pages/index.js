@@ -10,7 +10,7 @@ const Home = () => {
   return (
     <div className= "lg:mx-[162px] sm:w-fit">
     <Head>
-        <title>Home Page</title>
+        <title>SUYASH&apos;S BLOG | Home</title>
     </Head>
     <header>
       <Navbar />
